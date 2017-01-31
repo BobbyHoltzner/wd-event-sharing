@@ -1,0 +1,22 @@
+.facebook__button {
+    background-color: #3B5998;
+    height: 28px;
+    max-width: 100px;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    font-size: 12px;
+    cursor: pointer;
+}
+.facebook__shareText {
+    color: #f9f9f9;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.facebook__shareCount {
+    margin-left: 10px;
+    color: #f9f9f9;
+    font-family: sans-serif
+}
